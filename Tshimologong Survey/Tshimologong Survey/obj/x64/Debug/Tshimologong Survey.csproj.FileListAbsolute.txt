@@ -1,0 +1,10 @@
+C:\Users\ADMIN\Documents\ \Tshimologong Survey\Tshimologong Survey\Tshimologong Survey\bin\x64\Debug\Tshimologong Survey.exe.config
+C:\Users\ADMIN\Documents\ \Tshimologong Survey\Tshimologong Survey\Tshimologong Survey\bin\x64\Debug\Tshimologong Survey.exe
+C:\Users\ADMIN\Documents\ \Tshimologong Survey\Tshimologong Survey\Tshimologong Survey\bin\x64\Debug\Tshimologong Survey.pdb
+C:\Users\ADMIN\Documents\ \Tshimologong Survey\Tshimologong Survey\Tshimologong Survey\obj\x64\Debug\Tshimologong_Survey.Form1.resources
+C:\Users\ADMIN\Documents\ \Tshimologong Survey\Tshimologong Survey\Tshimologong Survey\obj\x64\Debug\Tshimologong_Survey.Form2.resources
+C:\Users\ADMIN\Documents\ \Tshimologong Survey\Tshimologong Survey\Tshimologong Survey\obj\x64\Debug\Tshimologong_Survey.Form3.resources
+C:\Users\ADMIN\Documents\ \Tshimologong Survey\Tshimologong Survey\Tshimologong Survey\obj\x64\Debug\Tshimologong_Survey.Properties.Resources.resources
+C:\Users\ADMIN\Documents\ \Tshimologong Survey\Tshimologong Survey\Tshimologong Survey\obj\x64\Debug\Tshimologong Survey.csproj.GenerateResource.Cache
+C:\Users\ADMIN\Documents\ \Tshimologong Survey\Tshimologong Survey\Tshimologong Survey\obj\x64\Debug\Tshimologong Survey.exe
+C:\Users\ADMIN\Documents\ \Tshimologong Survey\Tshimologong Survey\Tshimologong Survey\obj\x64\Debug\Tshimologong Survey.pdb
